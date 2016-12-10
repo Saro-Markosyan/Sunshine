@@ -16,7 +16,7 @@ import com.example.saro.sunshine.sync.SunshineSyncAdapter;
 
 /*
 
-    https://www.udacity.com/course/viewer#!/c-ud853/l-1623168625/e-1653838961/m-1683768702
+    https://www.udacity.com/course/viewer#!/c-ud853/l-1623168625/e-1661448961/m-1661448964
 
     // https://www.udacity.com/course/viewer#!/c-ud853/l-4339028539/m-4329556187
 
